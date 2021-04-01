@@ -10,13 +10,13 @@
 
 ### Technologies I utilize:
 
-<img src='https://github.com/johnrggo/johnrggo/icons/html.svg' alt='HTML' width='50' /> 
-<img src='https://github.com/johnrggo/johnrggo/icons/css.svg' alt='CSS' width='50' /> <img 
-<img src='https://github.com/johnrggo/johnrggo/icons/javascript.svg' alt='JavaScript' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/react.svg' alt='React' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/redux.svg' alt='Redux' width='50' /> 
-<img src='https://github.com/johnrggo/johnrggo/icons/nodejs.svg' alt='Node.js' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/nextjs.svg' alt='Next.js' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/mongodb.svg' alt='MongoDB' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/firebase-icon.svg' alt='Firebase' width='50' />
-<img src='https://github.com/johnrggo/johnrggo/icons/github.svg' alt='GitHub' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/html.svg' alt='HTML' width='50' /> 
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/css.svg' alt='CSS' width='50' /> <img 
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/javascript.svg' alt='JavaScript' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/react.svg' alt='React' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/redux.svg' alt='Redux' width='50' /> 
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/nodejs.svg' alt='Node.js' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/nextjs.svg' alt='Next.js' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/mongodb.svg' alt='MongoDB' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/firebase-icon.svg' alt='Firebase' width='50' />
+<img src='https://github.com/johnrggo/johnrggo/blob/main/icons/github.svg' alt='GitHub' width='50' />
