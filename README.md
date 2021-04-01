@@ -4,7 +4,7 @@
 - 🌱 I’m currently honing my developer skills.
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about <b>React.js</b>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
 
 ⚡⚡ Stay up-to-date for my new portfolio! ⚡⚡
 
