@@ -1,5 +1,5 @@
 ## Hi there 👋🏽 
-I am John Go
+## I am John Go
 
 #### I'm a Frontend / Fullstack Developer
 - 🌱 I’m currently honing my developer skills.
