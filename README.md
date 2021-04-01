@@ -1,4 +1,4 @@
-## Hi there 🏼👋🏽 I'm John
+## Hi there 👋🏽 I'm John
 
 #### I'm a Frontend / Fullstack Developer
 - 🌱 I’m currently honing my developer skills.
