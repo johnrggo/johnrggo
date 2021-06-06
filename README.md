@@ -2,7 +2,6 @@
 
 #### I'm a Frontend / Fullstack Developer
 - 🌱 I’m currently honing my developer skills.
-- 🤔 I’m looking for help with getting a job
 - 💬 Ask me about <b>React.js</b>
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
 
