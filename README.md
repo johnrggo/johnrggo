@@ -5,7 +5,7 @@
 - 💬 Ask me about <b>React.js</b>
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
 
-⚡⚡ New portfolio webite - https://www.johngo.tech/! ⚡⚡
+Portfolio webite - https://www.johngo.tech/
 
 ### Technologies I utilize:
 
