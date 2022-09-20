@@ -1,11 +1,11 @@
 ## Hi there 👋🏽 I am John Go
 
-#### I'm a Frontend / Fullstack Developer
-- 🌱 I’m currently honing my developer skills.
+#### I'm a Software Engineer
+- 🌱 I’m mastering my craft in Software Development.
 - 💬 Ask me about <b>React.js</b>
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
 
-Portfolio webite - https://www.johngo.tech/
+Portfolio website - https://www.johngo.tech/
 
 ### Technologies I utilize:
 
