@@ -1,7 +1,7 @@
-## Hi there 👋🏽 I am John Go
+## Hi there 👋🏽 My name is Go, John Go.
 
-#### I'm a Software Engineer
-- 🌱 I’m mastering my craft in Software Development.
+####
+- 🌱 I am mastering my craft in Software Development.
 - 💬 Ask me about <b>React.js</b>
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/johnrggo/)
 
